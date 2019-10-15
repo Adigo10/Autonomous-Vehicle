@@ -1,5 +1,3 @@
-Self Driving Research Project.
-<<<<<<< HEAD
-=======
-for ARC center, VIT Vellore
->>>>>>> 945f35e4dd541b8f123c855f2edeb3f26e2d61cb
+A Project in collaboration with State University of New York (SUNY),
+for the Research & Development of Autonomous Ground Vehicle
+at Vellore Institute of Technology, Vellore, Tamil Nadu, India.
