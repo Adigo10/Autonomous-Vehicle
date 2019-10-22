@@ -1,0 +1,12 @@
+#container {
+	margin: 0px auto;
+	width: auto;
+	height: 100%;
+	border: 10px #333 solid;
+}
+#videoElement {
+	align-content:center;
+	width: auto;
+	height:100%;
+	background-color: #666;
+}
